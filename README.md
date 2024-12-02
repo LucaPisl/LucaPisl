@@ -4,5 +4,5 @@
 - In the future, I would like to learn Java and JS
 - You can reach me on: <details> 
   <summary> Discord </summary>
-   xeno#1407
+   ._.xeno._.
 </details>
